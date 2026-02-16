@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "maputo-zimpeto",
+    "name": "Maputo to Zimpeto",
+    "limit": 60,
+    "coords": [
+      [-25.9667, 32.5833],
+      [-25.828, 32.575]
+    ]
+  },
+  {
+    "id": "zimpeto-marracuene",
+    "name": "Zimpeto to Marracuene",
+    "limit": 80,
+    "coords": [
+      [-25.828, 32.575],
+      [-25.733, 32.683]
+    ]
+  }
+]
